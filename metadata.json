@@ -1,0 +1,5 @@
+{
+  "name": "AERODYNA 簍空支撐力學模擬器",
+  "description": "Interactive mechanical performance simulator for high-tech TPE lattice cantilever supports, featuring real-time 3D FEA hotspots.",
+  "requestFramePermissions": []
+}
